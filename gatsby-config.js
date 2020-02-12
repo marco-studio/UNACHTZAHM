@@ -1,29 +1,22 @@
 module.exports = {
   siteMetadata: {
-    title: `Over The Bridge`,
-    description: `Hey, meet Bilal, Kwaku, Patrick &amp; Tom. 4 Black &amp; Mixed-Race guys who became friends whilst studying at Cambridge University. Join us as we talk about life before, during and well - after 'The Bridge'. Expect chats about life, and our own experiences.
-    email: otbpodcastuk@gmail.com
-    Twitter: @otbpodcastuk
-    Cast: 
-    Kwaku: @KwakuDapaah_
-    Patrick: @CariocoLondrino
-    Bilal: @Tweetsbybilal
-    Tom: @TomTheEconomist`,
-    author: `Kwaku, Patrick, Bilal & Tom`,
-    twitter: `https://twitter.com/otbpodcastuk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor`,
-    instagram: `https://www.instagram.com/otbpodcastuk/`,
+    title: `UNACHTZAHM`,
+    description: `Eine Mischung aus Zauberei und Dosenbier! Es gibt zu viel Liebe und Hass, der kanalisiert werden muss. Es bedarf eines Podcasts, der sich dieser Sache annimmt. Schluss mit Arschkriecherei und Produktplatzierung. Es ist Zeit für ein ehrlicheres und echteres Leben. Plastikmüll gibt es bereits genügend in unseren Weltmeeren.`,
+    author: `NASTIA UND RAMI`,
+    twitter: ``,
+    instagram: `https://www.instagram.com/unachtzahm/`,
     facebook: ``,
-    youtube: ``,
-    apple: `https://podcasts.apple.com/podcast/id1364395842?ct=podlink&mt=2`,
+    youtube: `https://www.youtube.com/channel/UCEBiyxRVfxD0zqp9a6fJTNA`,
+    apple: `https://podcasts.apple.com/podcast/id1454164092?ct=podlink&mt=2`,
     stitcher: ``,
-    google: `https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NDA3NTYwNzY0L3NvdW5kcy5yc3M=`,
-    pocket: `https://pca.st/itunes/1364395842`,
-    spotify: `https://open.spotify.com/show/0Lo2a3hwV0nxymHUj2lNIk`,
-    overcast: `https://overcast.fm/itunes1364395842`,
-    castbox: `https://soundcloud.com/overthebridgeuk`,
-    castro: `https://castro.fm/itunes/1364395842`,
-    podbean: `https://www.podbean.com/podcast-detail/g9v5c-68ac3/Over-The-Bridge-Podcast`,
-    beaker: `https://www.breaker.audio/shows?feed_url=http%3A%2F%2Ffeeds.soundcloud.com%2Fusers%2Fsoundcloud%3Ausers%3A407560764%2Fsounds.rss`
+    google: `https://podcasts.google.com/?feed=aHR0cHM6Ly91bmFjaHR6YWhtLnBvZGlnZWUuaW8vZmVlZC9tcDM=`,
+    pocket: `https://pca.st/itunes/1454164092`,
+    spotify: `https://open.spotify.com/show/4PLE87DZJcWUibIqfJyIbZ`,
+    overcast: `https://overcast.fm/itunes1454164092`,
+    castbox: `https://castbox.fm/vic/1454164092`,
+    castro: `https://castro.fm/itunes/1454164092`,
+    podbean: ``,
+    beaker: `https://www.breaker.audio/shows?feed_url=https%3A%2F%2Funachtzahm.podigee.io%2Ffeed%2Fmp3`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -59,7 +52,7 @@ module.exports = {
         // url: `https://www.gatsbyjs.org/blog/rss.xml`,
         // url: `https://boysinthecave.com/feed/podcast/`,
         // url: `http://boysinthecave.libsyn.com/rss`,
-        url: `http://feeds.soundcloud.com/users/soundcloud:users:407560764/sounds.rss`,
+        url: `https://unachtzahm.podigee.io/feed/mp3`,
         name: `GatsbyBlog`,
         // Optional
         // Read parser document: https://github.com/bobby-brennan/rss-parser#readme
