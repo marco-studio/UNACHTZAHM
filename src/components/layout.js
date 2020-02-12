@@ -50,7 +50,7 @@ const Layout = ({ children }) => {
               </svg>
             </a>
           </li> */}
-          <li className="ml-6 mr-6">
+          {/* <li className="ml-6 mr-6">
             <a href={data.site.siteMetadata.twitter}>
               <svg
                 width="24"
@@ -66,7 +66,7 @@ const Layout = ({ children }) => {
                 />
               </svg>
             </a>
-          </li>
+          </li> */}
           <li className="ml-6 mr-6">
             <a href={data.site.siteMetadata.instagram}>
               <svg
